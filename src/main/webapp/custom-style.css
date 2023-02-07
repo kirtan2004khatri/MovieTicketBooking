@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+.btn-primary{
+	background-color: #0096FF;
+	background-color: #5D3FD3;
+}
+.btn-success{
+	background-color: #50C878;	
+}
+.btn-danger{
+	background-color: #0096FF;		
+}
+.btn-warning{
+	background-color: #0096FF;			
+}
